@@ -1,4 +1,4 @@
-name: FLutter Custom View Work Shop      # Workshop 的名称
+name: FLutter Custom View Work Shop 2     # Workshop 的名称
 type: flutter             # Workshop 的类型，可为 "dart" 或 "flutter"
 steps:                 # 声明步骤
   - name: Step 1         # 步骤的名称
