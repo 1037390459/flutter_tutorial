@@ -1,0 +1,9 @@
+name: FLutter Custom View Work Shop      # Workshop 的名称
+type: flutter             # Workshop 的类型，可为 "dart" 或 "flutter"
+steps:                 # 声明步骤
+  - name: Step 1         # 步骤的名称
+    directory: step_01   # 步骤对应的目录
+    has_solution: true   # 步骤是否有解答
+  - name: Step 2
+    directory: step_02
+    has_solution: false
