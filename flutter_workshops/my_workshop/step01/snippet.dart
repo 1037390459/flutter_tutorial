@@ -12,6 +12,8 @@ class DiscData {
   final Color color;
   final Alignment alignment;
 
+  final String a = 'a';
+
   DiscData()
       : size = _rng.nextDouble() * 40 + 10,
         color = Color.fromARGB(
